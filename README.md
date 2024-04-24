@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 I'm Rajdeepak Sahoo, a passionate Java developer diving deep into the realms of Spring Boot, Spring Security, Kafka, microservices, JPA, Docker, Kubernetes, and AWS. 🚀
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNyNmJqbDlvN2c1bXl2eWlwY3JrZXE1aWp2bzc5YjRncmphc2diYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HOh1tBgpWqtvC9GMD2/giphy.gif" style="width: 30%; border-radius: 10px;">
-</div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNyNmJqbDlvN2c1bXl2eWlwY3JrZXE1aWp2bzc5YjRncmphc2diYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HOh1tBgpWqtvC9GMD2/giphy.gif" style="width: 30%; border-radius: 10px;margin-left 45%">
 
 
 Here's a sneak peek into my world:
